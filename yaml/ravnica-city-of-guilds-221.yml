@@ -1,0 +1,116 @@
+---
+object: card
+id: 0a16086c-5a74-45d0-8b38-e832cfbc80f7
+oracle_id: 9b271430-f53d-42d6-a547-2f286dd9bcb6
+multiverse_ids:
+- 89063
+mtgo_id: 23178
+mtgo_foil_id: 23179
+tcgplayer_id: 13383
+cardmarket_id: 13498
+name: Putrefy
+lang: en
+released_at: '2005-10-07'
+uri: https://api.scryfall.com/cards/0a16086c-5a74-45d0-8b38-e832cfbc80f7
+scryfall_uri: https://scryfall.com/card/rav/221/putrefy?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/0/a/0a16086c-5a74-45d0-8b38-e832cfbc80f7.jpg?1598917276
+  normal: https://cards.scryfall.io/normal/front/0/a/0a16086c-5a74-45d0-8b38-e832cfbc80f7.jpg?1598917276
+  large: https://cards.scryfall.io/large/front/0/a/0a16086c-5a74-45d0-8b38-e832cfbc80f7.jpg?1598917276
+  png: https://cards.scryfall.io/png/front/0/a/0a16086c-5a74-45d0-8b38-e832cfbc80f7.png?1598917276
+  art_crop: https://cards.scryfall.io/art_crop/front/0/a/0a16086c-5a74-45d0-8b38-e832cfbc80f7.jpg?1598917276
+  border_crop: https://cards.scryfall.io/border_crop/front/0/a/0a16086c-5a74-45d0-8b38-e832cfbc80f7.jpg?1598917276
+mana_cost: "{1}{B}{G}"
+cmc: 3.0
+type_line: Instant
+oracle_text: Destroy target artifact or creature. It can't be regenerated.
+colors:
+- B
+- G
+color_identity:
+- B
+- G
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 15fccbe8-2825-41ca-9d0a-67aebdf91c4a
+set: rav
+set_name: 'Ravnica: City of Guilds'
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/15fccbe8-2825-41ca-9d0a-67aebdf91c4a
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Arav&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/rav?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/0a16086c-5a74-45d0-8b38-e832cfbc80f7/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A9b271430-f53d-42d6-a547-2f286dd9bcb6&unique=prints
+collector_number: '221'
+digital: false
+rarity: uncommon
+watermark: golgari
+flavor_text: |-
+  "All matter, animate or not, rots when exposed to time. We merely speed up the process."
+  —Ezoc, Golgari rot farmer
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Jim Nelson
+artist_ids:
+- aa9f64d1-29e1-4c82-877e-44c18183f40b
+illustration_id: 6f7b1a58-c412-4247-b3c6-289c42128333
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 292
+penny_rank: 745
+prices:
+  usd: '0.31'
+  usd_foil: '3.31'
+  usd_etched: 
+  eur: '0.05'
+  eur_foil: '0.99'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=89063
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Putrefy&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Putrefy&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Putrefy
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/13383?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Putrefy&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/23178?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

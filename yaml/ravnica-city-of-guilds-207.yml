@@ -1,0 +1,116 @@
+---
+object: card
+id: ed6166c1-3c2e-47af-873e-d3b39f42bd27
+oracle_id: bcfc112e-0482-4616-8ca9-32338a37fa82
+multiverse_ids:
+- 89027
+mtgo_id: 23414
+mtgo_foil_id: 23415
+tcgplayer_id: 13296
+cardmarket_id: 13402
+name: Glare of Subdual
+lang: en
+released_at: '2005-10-07'
+uri: https://api.scryfall.com/cards/ed6166c1-3c2e-47af-873e-d3b39f42bd27
+scryfall_uri: https://scryfall.com/card/rav/207/glare-of-subdual?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/e/d/ed6166c1-3c2e-47af-873e-d3b39f42bd27.jpg?1598917038
+  normal: https://cards.scryfall.io/normal/front/e/d/ed6166c1-3c2e-47af-873e-d3b39f42bd27.jpg?1598917038
+  large: https://cards.scryfall.io/large/front/e/d/ed6166c1-3c2e-47af-873e-d3b39f42bd27.jpg?1598917038
+  png: https://cards.scryfall.io/png/front/e/d/ed6166c1-3c2e-47af-873e-d3b39f42bd27.png?1598917038
+  art_crop: https://cards.scryfall.io/art_crop/front/e/d/ed6166c1-3c2e-47af-873e-d3b39f42bd27.jpg?1598917038
+  border_crop: https://cards.scryfall.io/border_crop/front/e/d/ed6166c1-3c2e-47af-873e-d3b39f42bd27.jpg?1598917038
+mana_cost: "{2}{G}{W}"
+cmc: 4.0
+type_line: Enchantment
+oracle_text: 'Tap an untapped creature you control: Tap target artifact or creature.'
+colors:
+- G
+- W
+color_identity:
+- G
+- W
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 15fccbe8-2825-41ca-9d0a-67aebdf91c4a
+set: rav
+set_name: 'Ravnica: City of Guilds'
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/15fccbe8-2825-41ca-9d0a-67aebdf91c4a
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Arav&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/rav?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/ed6166c1-3c2e-47af-873e-d3b39f42bd27/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Abcfc112e-0482-4616-8ca9-32338a37fa82&unique=prints
+collector_number: '207'
+digital: false
+rarity: rare
+watermark: selesnya
+flavor_text: The righteous light of Selesnya is channeled through the devout, striking
+  out to blind the nonbelievers.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Zoltan Boros & Gabor Szikszai
+artist_ids:
+- 1885e6cb-c827-4896-994e-3d0a027d602f
+- 44c3877f-8771-43dc-9e40-f4c765f59d2e
+illustration_id: d72fe20d-9f32-43f0-9709-78f43b31a5e2
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 6737
+penny_rank: 1975
+prices:
+  usd: '0.59'
+  usd_foil: '9.69'
+  usd_etched: 
+  eur: '0.30'
+  eur_foil: '1.99'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=89027
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Glare+of+Subdual&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Glare+of+Subdual&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Glare+of+Subdual
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/13296?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Glare+of+Subdual&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/23414?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

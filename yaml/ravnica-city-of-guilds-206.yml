@@ -1,0 +1,118 @@
+---
+object: card
+id: aec53f16-5bf7-4ef5-b83e-9e36463d1640
+oracle_id: 4af23012-16eb-47be-b666-3e536d8f6c1b
+multiverse_ids:
+- 83562
+mtgo_id: 23022
+mtgo_foil_id: 23023
+tcgplayer_id: 13283
+cardmarket_id: 13386
+name: Flame-Kin Zealot
+lang: en
+released_at: '2005-10-07'
+uri: https://api.scryfall.com/cards/aec53f16-5bf7-4ef5-b83e-9e36463d1640
+scryfall_uri: https://scryfall.com/card/rav/206/flame-kin-zealot?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/a/e/aec53f16-5bf7-4ef5-b83e-9e36463d1640.jpg?1598917019
+  normal: https://cards.scryfall.io/normal/front/a/e/aec53f16-5bf7-4ef5-b83e-9e36463d1640.jpg?1598917019
+  large: https://cards.scryfall.io/large/front/a/e/aec53f16-5bf7-4ef5-b83e-9e36463d1640.jpg?1598917019
+  png: https://cards.scryfall.io/png/front/a/e/aec53f16-5bf7-4ef5-b83e-9e36463d1640.png?1598917019
+  art_crop: https://cards.scryfall.io/art_crop/front/a/e/aec53f16-5bf7-4ef5-b83e-9e36463d1640.jpg?1598917019
+  border_crop: https://cards.scryfall.io/border_crop/front/a/e/aec53f16-5bf7-4ef5-b83e-9e36463d1640.jpg?1598917019
+mana_cost: "{1}{R}{R}{W}"
+cmc: 4.0
+type_line: Creature — Elemental Berserker
+oracle_text: When Flame-Kin Zealot enters the battlefield, creatures you control get
+  +1/+1 and gain haste until end of turn.
+power: '2'
+toughness: '2'
+colors:
+- R
+- W
+color_identity:
+- R
+- W
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 15fccbe8-2825-41ca-9d0a-67aebdf91c4a
+set: rav
+set_name: 'Ravnica: City of Guilds'
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/15fccbe8-2825-41ca-9d0a-67aebdf91c4a
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Arav&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/rav?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/aec53f16-5bf7-4ef5-b83e-9e36463d1640/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A4af23012-16eb-47be-b666-3e536d8f6c1b&unique=prints
+collector_number: '206'
+digital: false
+rarity: uncommon
+watermark: boros
+flavor_text: Boros soldiers are like a cache of bombs ready to explode, and the flame-kin
+  light their fuses.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Arnie Swekel
+artist_ids:
+- af10ecf2-eb82-4100-97b2-6c236b0fa644
+illustration_id: e47ae9f5-2b81-4aa4-a3f4-2a8450b82969
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 15489
+penny_rank: 3209
+prices:
+  usd: '0.24'
+  usd_foil: '0.76'
+  usd_etched: 
+  eur: '0.25'
+  eur_foil: '0.40'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=83562
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Flame-Kin+Zealot&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Flame-Kin+Zealot&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Flame-Kin+Zealot
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/13283?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Flame-Kin+Zealot&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/23022?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

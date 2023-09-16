@@ -1,0 +1,113 @@
+---
+object: card
+id: 20b9c057-b80a-4e4e-a0d7-34b7ff3a69f4
+oracle_id: f947808c-a1cc-41ea-9d06-e1279a0da527
+multiverse_ids:
+- 87991
+mtgo_id: 23294
+mtgo_foil_id: 23295
+tcgplayer_id: 13233
+cardmarket_id: 13336
+name: Compulsive Research
+lang: en
+released_at: '2005-10-07'
+uri: https://api.scryfall.com/cards/20b9c057-b80a-4e4e-a0d7-34b7ff3a69f4
+scryfall_uri: https://scryfall.com/card/rav/40/compulsive-research?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/2/0/20b9c057-b80a-4e4e-a0d7-34b7ff3a69f4.jpg?1598914061
+  normal: https://cards.scryfall.io/normal/front/2/0/20b9c057-b80a-4e4e-a0d7-34b7ff3a69f4.jpg?1598914061
+  large: https://cards.scryfall.io/large/front/2/0/20b9c057-b80a-4e4e-a0d7-34b7ff3a69f4.jpg?1598914061
+  png: https://cards.scryfall.io/png/front/2/0/20b9c057-b80a-4e4e-a0d7-34b7ff3a69f4.png?1598914061
+  art_crop: https://cards.scryfall.io/art_crop/front/2/0/20b9c057-b80a-4e4e-a0d7-34b7ff3a69f4.jpg?1598914061
+  border_crop: https://cards.scryfall.io/border_crop/front/2/0/20b9c057-b80a-4e4e-a0d7-34b7ff3a69f4.jpg?1598914061
+mana_cost: "{2}{U}"
+cmc: 3.0
+type_line: Sorcery
+oracle_text: Target player draws three cards. Then that player discards two cards
+  unless they discard a land card.
+colors:
+- U
+color_identity:
+- U
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 15fccbe8-2825-41ca-9d0a-67aebdf91c4a
+set: rav
+set_name: 'Ravnica: City of Guilds'
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/15fccbe8-2825-41ca-9d0a-67aebdf91c4a
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Arav&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/rav?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/20b9c057-b80a-4e4e-a0d7-34b7ff3a69f4/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af947808c-a1cc-41ea-9d06-e1279a0da527&unique=prints
+collector_number: '40'
+digital: false
+rarity: common
+flavor_text: '"Four parts molten bronze, yes . . . one part frozen mercury, yes, yes
+  . . . but then what?"'
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Michael Sutfin
+artist_ids:
+- 5ce7b3bd-53d2-49e6-b504-37191e8e9b17
+illustration_id: 65fe06e9-e5bb-414b-84b5-17ccc80fec9b
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 3126
+penny_rank: 743
+prices:
+  usd: '0.15'
+  usd_foil: '4.86'
+  usd_etched: 
+  eur: '0.50'
+  eur_foil: '0.93'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=87991
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Compulsive+Research&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Compulsive+Research&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Compulsive+Research
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/13233?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Compulsive+Research&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/23294?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

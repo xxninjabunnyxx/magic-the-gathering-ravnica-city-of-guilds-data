@@ -1,0 +1,114 @@
+---
+object: card
+id: 7ac16d09-8bc7-407c-a757-666f4707bc90
+oracle_id: ac8fba34-512c-4f24-999a-ab72f1ce4acb
+multiverse_ids:
+- 89001
+mtgo_id: 23376
+mtgo_foil_id: 23377
+tcgplayer_id: 13340
+cardmarket_id: 13449
+name: Life from the Loam
+lang: en
+released_at: '2005-10-07'
+uri: https://api.scryfall.com/cards/7ac16d09-8bc7-407c-a757-666f4707bc90
+scryfall_uri: https://scryfall.com/card/rav/172/life-from-the-loam?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/7/a/7ac16d09-8bc7-407c-a757-666f4707bc90.jpg?1598916380
+  normal: https://cards.scryfall.io/normal/front/7/a/7ac16d09-8bc7-407c-a757-666f4707bc90.jpg?1598916380
+  large: https://cards.scryfall.io/large/front/7/a/7ac16d09-8bc7-407c-a757-666f4707bc90.jpg?1598916380
+  png: https://cards.scryfall.io/png/front/7/a/7ac16d09-8bc7-407c-a757-666f4707bc90.png?1598916380
+  art_crop: https://cards.scryfall.io/art_crop/front/7/a/7ac16d09-8bc7-407c-a757-666f4707bc90.jpg?1598916380
+  border_crop: https://cards.scryfall.io/border_crop/front/7/a/7ac16d09-8bc7-407c-a757-666f4707bc90.jpg?1598916380
+mana_cost: "{1}{G}"
+cmc: 2.0
+type_line: Sorcery
+oracle_text: |-
+  Return up to three target land cards from your graveyard to your hand.
+  Dredge 3 (If you would draw a card, you may mill three cards instead. If you do, return this card from your graveyard to your hand.)
+colors:
+- G
+color_identity:
+- G
+keywords:
+- Dredge
+- Mill
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 15fccbe8-2825-41ca-9d0a-67aebdf91c4a
+set: rav
+set_name: 'Ravnica: City of Guilds'
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/15fccbe8-2825-41ca-9d0a-67aebdf91c4a
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Arav&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/rav?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/7ac16d09-8bc7-407c-a757-666f4707bc90/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aac8fba34-512c-4f24-999a-ab72f1ce4acb&unique=prints
+collector_number: '172'
+digital: false
+rarity: rare
+watermark: golgari
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Terese Nielsen
+artist_ids:
+- eb55171c-2342-45f4-a503-2d5a75baf752
+illustration_id: 8c957ece-09ad-4729-9898-227f0173ca6f
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 910
+prices:
+  usd: '11.32'
+  usd_foil: '115.55'
+  usd_etched: 
+  eur: '7.47'
+  eur_foil: '17.00'
+  tix: '0.73'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=89001
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Life+from+the+Loam&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Life+from+the+Loam&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Life+from+the+Loam
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/13340?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Life+from+the+Loam&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/23376?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
